@@ -1,7 +1,7 @@
 
 ---
 title: "Gapminder Analysis"
-author: "Colin Rundel"
+author: "Colin W Rundel"
 date: "8/30/2016"
 output: html_document
 ---
