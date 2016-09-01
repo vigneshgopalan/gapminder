@@ -1,7 +1,11 @@
 
 ---
 title: "Gapminder Analysis"
+<<<<<<< HEAD
 author: "Colin W Rundel"
+=======
+author: "Colin Witter Rundel"
+>>>>>>> 87972bd8f6dfe6452d2af44aa6838996d72f04cb
 date: "8/30/2016"
 output: html_document
 ---
